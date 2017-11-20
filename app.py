@@ -79,7 +79,7 @@ class HttpWSSProtocol(websockets.WebSocketServerProtocol):
 
             # {"instance": "temperature", "setting": "none", "state": "none", "query":"?"}
             # {"instance": "none", "setting": "none", "state": "heat", "query":"cmd"}
-            # {"instance": "temperature", "setting": "58", "state": "none", "query":"cmd"}
+            # {"instance": "temperature", "setting": "21", "state": "none", "query":"cmd"}
 
             # # send command to ESP over websocket
             if self.rwebsocket== None:
