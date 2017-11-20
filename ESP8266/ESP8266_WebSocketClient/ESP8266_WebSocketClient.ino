@@ -1,10 +1,7 @@
 /*
  * ESP8266-Alexa_Skills_Thermostat
- * Ron Boston 
- * 20 Aug 2017
- * 
- * Code based on the work of Nassir Malik. See his Youtube tutorials at https://www.youtube.com/channel/UCn8v7OzXk7IqRdKZdf14yjA
- *  and code at https://github.com/nassir-malik
+ * Michele Toniolo 
+ * 20 Sept 2017
  */
 #include <ArduinoJson.h>
 #include <ESP8266WiFi.h>
