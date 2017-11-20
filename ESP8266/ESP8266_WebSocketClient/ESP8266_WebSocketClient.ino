@@ -5,8 +5,6 @@
  * 
  * Code based on the work of Nassir Malik. See his Youtube tutorials at https://www.youtube.com/channel/UCn8v7OzXk7IqRdKZdf14yjA
  *  and code at https://github.com/nassir-malik
- * TCP code used to talk to the HomeVision system is a modified version from Big Dan the Blogging Man
- *  at https://bigdanzblog.wordpress.com/2016/02/09/esp8266arduino-ide-communicating-with-tcp/  
  */
 #include <ArduinoJson.h>
 #include <ESP8266WiFi.h>
